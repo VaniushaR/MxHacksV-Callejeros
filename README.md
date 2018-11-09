@@ -1,7 +1,10 @@
-#Pata Amiga#
-##Hoy por ellos, mañana por todos##
+# Callejeros
 
-## Inspiration
+## Hoy por ellos, mañana por todos
+
+![Callejeros responsive](./assets/Documentation/Callejeros.png)
+
+## Inspiración
 
 La creciente problemática de los perros callejeros. México es el país con más perritos callejeros en América Latina. "El 75 por ciento de dichos caninos no han recibido una vacuna o desparasitación en toda su vida, lo que se convierte en un riesgo para la salud pública y un foco de infección para otros perros", según Excelsior (Recuperado de _México, el país con más perritos callejeros en América Latina_, Excelsior Online).  
 Este problema es un reto para la salud pública, ya que según según la académica de la FES Zaragoza de la UNAM, Irma Aburto López, (El Universal, enero 2018), "Cada año se emite al aire de la Ciudad de México media tonelada de residuos fecales, los principales responsables de la proliferación de enfermedades gastrointestinales", y refirió que "la mayoría de estos desechos proviene de perros y gatos".
